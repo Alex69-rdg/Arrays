@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\bin\Debug\net8.0\Nai-chesto-srestan-element.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\bin\Debug\net8.0\Nai-chesto-srestan-element.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\bin\Debug\net8.0\Nai-chesto-srestan-element.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\bin\Debug\net8.0\Nai-chesto-srestan-element.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\bin\Debug\net8.0\Nai-chesto-srestan-element.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\refint\Nai-chesto-srestan-element.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\Nai-chesto-srestan-element.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\Nai-chesto-srestan-element\obj\Debug\net8.0\ref\Nai-chesto-srestan-element.dll

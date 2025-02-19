@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683006C0-F64D-4F7F-B66B-2C0033D9A9B6}|Nai-chesto-srestan-element\\Nai-chesto-srestan-element.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\nai-chesto-srestan-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683006C0-F64D-4F7F-B66B-2C0033D9A9B6}|Nai-chesto-srestan-element\\Nai-chesto-srestan-element.csproj|solutionrelative:nai-chesto-srestan-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4247C1-970A-4596-B98B-FECFAE98CEF8}|LongestName\\LongestName.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\longestname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4247C1-970A-4596-B98B-FECFAE98CEF8}|LongestName\\LongestName.csproj|solutionrelative:longestname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C0709D-9767-4B2B-A59E-DC482BB84625}|Array2\\Array2.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\array2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C0709D-9767-4B2B-A59E-DC482BB84625}|Array2\\Array2.csproj|solutionrelative:array2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D95A27A2-65D0-450A-AD67-FD184EFACC59}|Array1\\Array1.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\array1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D95A27A2-65D0-450A-AD67-FD184EFACC59}|Array1\\Array1.csproj|solutionrelative:array1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Nai-chesto-srestan-element\\Program.cs",
+              "RelativeDocumentMoniker": "Nai-chesto-srestan-element\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Nai-chesto-srestan-element\\Program.cs*",
+              "RelativeToolTip": "Nai-chesto-srestan-element\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:59:09.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\LongestName\\Program.cs",
+              "RelativeDocumentMoniker": "LongestName\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\LongestName\\Program.cs",
+              "RelativeToolTip": "LongestName\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:24:14.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array2\\Program.cs",
+              "RelativeDocumentMoniker": "Array2\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array2\\Program.cs",
+              "RelativeToolTip": "Array2\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:53:32.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array1\\Program.cs",
+              "RelativeDocumentMoniker": "Array1\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array1\\Program.cs",
+              "RelativeToolTip": "Array1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:20:53.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

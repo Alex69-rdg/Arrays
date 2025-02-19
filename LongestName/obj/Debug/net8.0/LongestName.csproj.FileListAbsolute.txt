@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\bin\Debug\net8.0\LongestName.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\bin\Debug\net8.0\LongestName.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\bin\Debug\net8.0\LongestName.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\bin\Debug\net8.0\LongestName.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\bin\Debug\net8.0\LongestName.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\refint\LongestName.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\LongestName.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\LongestName\obj\Debug\net8.0\ref\LongestName.dll
