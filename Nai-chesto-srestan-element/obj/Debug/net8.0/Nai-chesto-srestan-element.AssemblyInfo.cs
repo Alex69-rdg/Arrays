@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nai-chesto-srestan-element")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3841d6ed25c72397fe2cba8a5d1c3c0db39a49f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nai-chesto-srestan-element")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nai-chesto-srestan-element")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\bin\Debug\net8.0\FindEvenElement.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\bin\Debug\net8.0\FindEvenElement.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\bin\Debug\net8.0\FindEvenElement.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\bin\Debug\net8.0\FindEvenElement.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\bin\Debug\net8.0\FindEvenElement.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\refint\FindEvenElement.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\FindEvenElement.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\FindEvenElement\obj\Debug\net8.0\ref\FindEvenElement.dll

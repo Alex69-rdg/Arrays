@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43A85B36-1347-45D9-9C54-BB13702B70AA}|FindEvenElement\\FindEvenElement.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\findevenelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43A85B36-1347-45D9-9C54-BB13702B70AA}|FindEvenElement\\FindEvenElement.csproj|solutionrelative:findevenelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14195FAC-7FAC-4EB4-AADA-F8F48D75E219}|KolkoPutiSeSreshtaChisloto\\KolkoPutiSeSreshtaChisloto.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\kolkoputisesreshtachisloto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14195FAC-7FAC-4EB4-AADA-F8F48D75E219}|KolkoPutiSeSreshtaChisloto\\KolkoPutiSeSreshtaChisloto.csproj|solutionrelative:kolkoputisesreshtachisloto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{683006C0-F64D-4F7F-B66B-2C0033D9A9B6}|Nai-chesto-srestan-element\\Nai-chesto-srestan-element.csproj|c:\\users\\students-1212-14\\desktop\\alex 9a\\arrays\\nai-chesto-srestan-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{683006C0-F64D-4F7F-B66B-2C0033D9A9B6}|Nai-chesto-srestan-element\\Nai-chesto-srestan-element.csproj|solutionrelative:nai-chesto-srestan-element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +40,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\FindEvenElement\\Program.cs",
+              "RelativeDocumentMoniker": "FindEvenElement\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\FindEvenElement\\Program.cs",
+              "RelativeToolTip": "FindEvenElement\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:14:58.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\KolkoPutiSeSreshtaChisloto\\Program.cs",
+              "RelativeDocumentMoniker": "KolkoPutiSeSreshtaChisloto\\Program.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\KolkoPutiSeSreshtaChisloto\\Program.cs",
+              "RelativeToolTip": "KolkoPutiSeSreshtaChisloto\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:27:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Nai-chesto-srestan-element\\Program.cs",
               "RelativeDocumentMoniker": "Nai-chesto-srestan-element\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Nai-chesto-srestan-element\\Program.cs*",
-              "RelativeToolTip": "Nai-chesto-srestan-element\\Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAQAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Nai-chesto-srestan-element\\Program.cs",
+              "RelativeToolTip": "Nai-chesto-srestan-element\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:59:09.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\LongestName\\Program.cs",
               "RelativeDocumentMoniker": "LongestName\\Program.cs",
@@ -51,12 +85,11 @@
               "RelativeToolTip": "LongestName\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwC4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T06:24:14.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T06:24:14.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array2\\Program.cs",
               "RelativeDocumentMoniker": "Array2\\Program.cs",
@@ -68,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\STUDENTS-1212-14\\Desktop\\Alex 9A\\Arrays\\Array1\\Program.cs",
               "RelativeDocumentMoniker": "Array1\\Program.cs",

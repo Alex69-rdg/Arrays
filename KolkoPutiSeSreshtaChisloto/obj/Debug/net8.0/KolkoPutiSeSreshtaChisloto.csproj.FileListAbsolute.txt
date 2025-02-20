@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\bin\Debug\net8.0\KolkoPutiSeSreshtaChisloto.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\bin\Debug\net8.0\KolkoPutiSeSreshtaChisloto.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\bin\Debug\net8.0\KolkoPutiSeSreshtaChisloto.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\bin\Debug\net8.0\KolkoPutiSeSreshtaChisloto.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\bin\Debug\net8.0\KolkoPutiSeSreshtaChisloto.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\refint\KolkoPutiSeSreshtaChisloto.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\KolkoPutiSeSreshtaChisloto.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\Arrays\KolkoPutiSeSreshtaChisloto\obj\Debug\net8.0\ref\KolkoPutiSeSreshtaChisloto.dll
